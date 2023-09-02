@@ -1,0 +1,15 @@
+.navbar {
+  list-style-type: none;
+  display: flex;
+  background-color: #818cf8;
+}
+
+.navbar li {
+  padding: 1rem;
+  background-color: #4f46e5;
+}
+
+.navbar .link {
+  text-decoration: none;
+  color: white;
+}
